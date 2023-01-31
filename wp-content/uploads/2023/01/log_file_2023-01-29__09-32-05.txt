@@ -1,0 +1,27 @@
+
+---Upload files---
+Widget file was not uploaded. Error: No file provided.
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://localhost/Tamanna
+Data file = C:\xampp\htdocs\Tamanna/wp-content/uploads/2023/01/tamanna.WordPress.2023-01-29.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+Site data import complete.
+
+
+---ocdi/after_import---
+
